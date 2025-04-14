@@ -14,8 +14,11 @@ pip install -r requirements.txt
 Create a .env file in studio directory with...
 
 OPENAI_API_KEY=your-key
+
 LANGCHAIN_API_KEY=your-key
+
 LANGCHAIN_TRACING_V2=true
+
 LANGCHAIN_PROJECT=mock-RAG
 
 ### 4. Open and Run with LangGraph Studio 
