@@ -1,0 +1,8 @@
+langchain>=0.1.17
+langgraph>=0.0.30
+langchain-openai>=0.1.6
+langchain-community>=0.0.30
+pandas>=2.2.1
+pydantic>=2.6.4
+typing_extensions
+ipython

@@ -1,0 +1,22 @@
+Employee,Department,Training,ECN,Date
+John Doe,Assembly,Safety Procedures,A,2025-01-15
+John Doe,Assembly,Tool Handling,B,2025-01-18
+Michael Johnson,Assembly,Safety Procedures,A,2025-02-07
+Michael Johnson,Assembly,Tool Handling,B,2025-02-10
+Sophia Adams,Assembly,Safety Procedures,A,2025-03-18
+Jane Smith,Quality Control,Quality Inspection Basics,C,2025-01-22
+Jane Smith,Quality Control,Defect Identification,D,2025-01-25
+Robert Wilson,Quality Control,Quality Inspection Basics,C,2025-02-22
+Robert Wilson,Quality Control,Defect Identification,D,2025-02-25
+William Hall,Quality Control,Safety Procedures,A,2025-03-01
+Emily Brown,Maintenance,Equipment Repair Techniques,E,2025-01-30
+Emily Brown,Maintenance,Preventive Maintenance 101,F,2025-02-02
+Laura Martin,Maintenance,Equipment Repair Techniques,E,2025-03-02
+Laura Martin,Maintenance,Preventive Maintenance 101,F,2025-03-05
+Olivia Clark,Maintenance,Equipment Calibration,G,2025-02-20
+Emma Davis,Production,Lean Manufacturing Principles,H,2025-02-15
+Emma Davis,Production,Process Optimization,I,2025-02-18
+Chris Taylor,Production,Lean Manufacturing Principles,H,2025-03-10
+Chris Taylor,Production,Material Handling,J,2025-03-15
+James Evans,Production,Material Handling,J,2025-02-22
+
