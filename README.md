@@ -1,4 +1,4 @@
-Simple Retrieval-Augmented Generation system built with **LangGraph** and **LangChain**, designed to assist with employee training compliance in a manufacturing setting.
+Simple Retrieval-Augmented Generation system built with **LangGraph** and **LangChain**, designed to assist with employee training compliance in a manufacturing setting. Built to learn LangGraph and experiment with its functionalities. In future would like to experiment with different memory management techniques, parallel tool calls, HITL interuptions to the workflow, and more robust file loading. 
 
 - LangGraph agent flow with conditional routing and tool use
 - Custom tools for querying csv documents
